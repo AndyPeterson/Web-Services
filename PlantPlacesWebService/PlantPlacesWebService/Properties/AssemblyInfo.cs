@@ -16,7 +16,7 @@ using System.Runtime.InteropServices;
 
 // Version information for an assembly consists of the following four values:
 //
-//      Major Version - yo
+//      Major Version - yof
 //      Minor Version 
 //      Build Number
 //      Revision - Like a bosss
